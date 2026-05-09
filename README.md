@@ -1,4 +1,4 @@
-# 🔐 PenTest-and-CTF
+# PenTest-and-CTF
 
 Welcome to **PenTest-and-CTF**, a curated repository of my hands-on practice in **Penetration Testing** and **Capture The Flag (CTF)** challenges.
 
@@ -6,40 +6,40 @@ This repository contains detailed reports, walkthroughs, and findings from vario
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 
 This repo includes:
 
-* 🧪 Penetration Testing Lab Reports
-* 🏁 CTF Challenge Write-ups
-* 📄 PDF Documentation of Completed Machines
-* 🧠 Key Learnings from Each Scenario
+* Penetration Testing Lab Reports
+* CTF Challenge Write ups
+* PDF Documentation of Completed Machines
+* key Learnings from Each Scenario
 
 ---
 
-## 📂 Current Contents
+##  Current Contents
 
 | File Name              | Description                          |
 | ---------------------- | ------------------------------------ |
 | `Basic Pentesting.pdf` | Beginner-level pentesting lab report |
-| `ROOTME.pdf`           | CTF challenge write-up               |
+| `ROOTME.pdf`           | CTF challenge write up               |
 | `Simple CTF.pdf`       | Web-based CTF walkthrough            |
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
-* 🔍 Reconnaissance & Enumeration
-* 🌐 Web Application Testing
-* 🔑 Credential Attacks
-* ⚔️ Exploitation Techniques
-* 🔐 Privilege Escalation
-* 🖥️ Linux System Navigation
-* 📡 Network Analysis Basics
+* Reconnaissance & Enumeration
+* Web Application Testing
+* Credential Attacks
+* Exploitation Techniques
+* Privilege Escalation
+* Linux System Navigation
+* Network Analysis Basics
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Nmap
 * Burp Suite
@@ -47,28 +47,28 @@ This repo includes:
 * Hydra
 * Netcat
 * Linux Commands
-* Wireshark (Basic Analysis)
+   
 
 ---
 
-## 🧪 Methodology Followed
+## Methodology Followed
 
 Each lab/report is approached using a structured penetration testing methodology:
 
-1. 🔍 Reconnaissance
-2. 🛰️ Enumeration
-3. ⚔️ Exploitation
-4. 🔐 Privilege Escalation
-5. 📄 Documentation
+1.Reconnaissance
+2.Enumeration
+3.Exploitation
+4.Privilege Escalation
+5.Documentation
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this repository is to:
 
 * Build a strong **cybersecurity portfolio**
-* Practice **real-world attack scenarios**
+* Practice **real world attack scenarios**
 * Improve **VAPT and CTF skills**
 * Document learning for future reference
 
@@ -81,7 +81,7 @@ This content is strictly for **educational purposes only**.
 
 ---
 
-## 🚀 Future Updates
+## Future Updates
 
 * Adding more **TryHackMe & Hack The Box write-ups**
 * Including **detailed step-by-step reports**
@@ -89,22 +89,3 @@ This content is strictly for **educational purposes only**.
 * Adding **tool-specific practice notes**
 
 ---
-
-## 📬 Connect
-
-* 💼 LinkedIn: *(Add your link)*
-* 🐙 GitHub: *(Your profile link)*
-
----
-
-## ⭐ Support
-
-If you find this repository useful:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 📢 Share with others
-
----
-
-> “Learn. Practice. Break. Understand. Repeat.”
