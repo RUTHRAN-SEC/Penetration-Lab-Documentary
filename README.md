@@ -2,7 +2,7 @@
 
 Welcome to **PenTest-and-CTF**, a curated repository of my hands-on practice in **Penetration Testing** and **Capture The Flag (CTF)** challenges.
 
-This repository contains detailed reports, walkthroughs, and findings from various cybersecurity labs and platforms, demonstrating real-world attack methodologies and problem-solving skills.
+This repository contains detailed reports, walkthroughs, and findings from various cybersecurity labs and platforms, demonstrating real-world attack methodologies and problem solving skills.
 
 ---
 
@@ -14,16 +14,6 @@ This repo includes:
 * CTF Challenge Write ups
 * PDF Documentation of Completed Machines
 * key Learnings from Each Scenario
-
----
-
-##  Current Contents
-
-| File Name              | Description                          |
-| ---------------------- | ------------------------------------ |
-| `Basic Pentesting.pdf` | Beginner-level pentesting lab report |
-| `ROOTME.pdf`           | CTF challenge write up               |
-| `Simple CTF.pdf`       | Web-based CTF walkthrough            |
 
 ---
 
@@ -43,6 +33,8 @@ This repo includes:
 
 * Nmap
 * Burp Suite
+* enum4linux
+* gtfobins
 * Gobuster
 * Hydra
 * Netcat
@@ -59,18 +51,8 @@ Each lab/report is approached using a structured penetration testing methodology
 2.Enumeration
 3.Exploitation
 4.Privilege Escalation
-5.Documentation
-
----
-
-## Objective
-
-The goal of this repository is to:
-
-* Build a strong **cybersecurity portfolio**
-* Practice **real world attack scenarios**
-* Improve **VAPT and CTF skills**
-* Document learning for future reference
+5.MITRE ATT&CK
+6.Documentation
 
 ---
 
@@ -80,12 +62,6 @@ All activities and reports in this repository are conducted in **legal and contr
 This content is strictly for **educational purposes only**.
 
 ---
+## Author
 
-## Future Updates
-
-* Adding more **TryHackMe & Hack The Box write-ups**
-* Including **detailed step-by-step reports**
-* Organizing content by **difficulty level and category**
-* Adding **tool-specific practice notes**
-
----
+### RUTHRAN-SEC
