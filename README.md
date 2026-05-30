@@ -47,12 +47,12 @@ This repo includes:
 
 Each lab/report is approached using a structured penetration testing methodology:
 
-1.Reconnaissance
-2.Enumeration
-3.Exploitation
-4.Privilege Escalation
-5.MITRE ATT&CK
-6.Documentation
+1. Reconnaissance
+2. Enumeration
+3. Exploitation
+4. Privilege Escalation
+5. MITRE ATT&CK
+6. Documentation
 
 ---
 
